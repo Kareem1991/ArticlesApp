@@ -1,0 +1,1157 @@
+
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/5b7029ac-a003-5aab-bbb9-73f5383e6a1a",
+            "url": "https://www.nytimes.com/2020/06/12/us/politics/trump-transgender-rights.html",
+            "id": 100000007189084,
+            "asset_id": 100000007189084,
+            "source": "New York Times",
+            "published_date": "2020-06-12",
+            "updated": "2020-06-13 16:36:38",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Discrimination;Health Insurance and Managed Care;United States Politics and Government;Patient Protection and Affordable Care Act (2010);Transgender and Transsexuals;Trump, Donald J;Human Rights Campaign;Health and Human Services Department",
+            "column": null,
+            "byline": "By Margot Sanger-Katz and Noah Weiland",
+            "type": "Article",
+            "title": "Trump Administration Erases Transgender Civil Rights Protections in Health Care",
+            "abstract": "A rule finalized on Friday by the Department of Health and Human Services means that the federal government no longer recognizes gender identity as an avenue for sex discrimination in health care.",
+            "des_facet": [
+                "Discrimination",
+                "Health Insurance and Managed Care",
+                "United States Politics and Government",
+                "Patient Protection and Affordable Care Act (2010)",
+                "Transgender and Transsexuals"
+            ],
+            "org_facet": [
+                "Human Rights Campaign",
+                "Health and Human Services Department"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An empty hallway filled with gurneys at a hospital in Queens. The new rule will erase protections for transgender patients against discrimination in the health care sector.",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/12/us/politics/12dc-transgender/12dc-transgender-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/12/us/politics/12dc-transgender/merlin_172386582_8c5204bd-f5dc-49b0-9efe-3ec4eae5969c-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/12/us/politics/12dc-transgender/merlin_172386582_8c5204bd-f5dc-49b0-9efe-3ec4eae5969c-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f6dd6989-2f19-58ee-b295-a71a902b5cd4",
+            "url": "https://www.nytimes.com/2020/06/10/arts/television/protests-fictional-cops.html",
+            "id": 100000007180708,
+            "asset_id": 100000007180708,
+            "source": "New York Times",
+            "published_date": "2020-06-10",
+            "updated": "2020-06-11 19:35:49",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "George Floyd Protests (2020);Police Brutality, Misconduct and Shootings;Television",
+            "column": null,
+            "byline": "By Amanda Hess",
+            "type": "Article",
+            "title": "The Protests Come for ‘Paw Patrol’",
+            "abstract": "A backlash is mounting against depictions of “good cops,” on television and in the street.",
+            "des_facet": [
+                "George Floyd Protests (2020)",
+                "Police Brutality, Misconduct and Shootings",
+                "Television"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chase is on the case in &ldquo;Paw Patrol,&rdquo; but as protests against racist police violence reach their third week, criticism of fictional cops is growing, too.",
+                    "copyright": "Elevation Pictures",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/11/arts/10cops-fictional1/10cops-fictional1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/11/arts/10cops-fictional1/10cops-fictional1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/11/arts/10cops-fictional1/10cops-fictional1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4140a4cf-2724-517c-a58f-cca399ddc9ef",
+            "url": "https://www.nytimes.com/2020/06/09/world/coronavirus-us-usa.html",
+            "id": 100000007181195,
+            "asset_id": 100000007181195,
+            "source": "New York Times",
+            "published_date": "2020-06-09",
+            "updated": "2020-06-10 05:39:03",
+            "section": "World",
+            "subsection": "",
+            "nytdsection": "world",
+            "adx_keywords": "Coronavirus (2019-nCoV)",
+            "column": null,
+            "byline": "",
+            "type": "Article",
+            "title": "Surging Coronavirus Cases Push Latin America ‘to the Limit’",
+            "abstract": "The U.S. caseload, already the world’s highest, is approaching two million. A book about the fall of France in 1940 has become a hit during the pandemic.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Covid-19 field hospital on the outskirts of Sao Paulo, Brazil, on Tuesday.",
+                    "copyright": "Andre Penner/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/07/09/world/09virus-briefing-brazil1/09virus-briefing-brazil1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/07/09/world/09virus-briefing-brazil1/merlin_173377659_34c81ce4-d1a2-443a-b065-be39a06fb698-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/07/09/world/09virus-briefing-brazil1/merlin_173377659_34c81ce4-d1a2-443a-b065-be39a06fb698-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/817fb3d6-03e5-54f4-9d02-780be087f7da",
+            "url": "https://www.nytimes.com/2020/06/06/us/politics/trump-biden-republicans-voters.html",
+            "id": 100000007176695,
+            "asset_id": 100000007176695,
+            "source": "New York Times",
+            "published_date": "2020-06-06",
+            "updated": "2020-06-07 20:02:23",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2020;Endorsements;United States Politics and Government;Trump, Donald J;Biden, Joseph R Jr;Bush, George W;Mattis, James N;McCain, Cindy;Powell, Colin L;Romney, Mitt;Rooney, Francis (1953- );Republican Party",
+            "column": null,
+            "byline": "By Jonathan Martin",
+            "type": "Article",
+            "title": "Vote for Trump? These Republican Leaders Aren’t on the Bandwagon",
+            "abstract": "Former President George W. Bush and Senator Mitt Romney won’t support Mr. Trump’s re-election. Colin Powell will vote for Joe Biden, and other G.O.P. officials may do the same.",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Endorsements",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Biden, Joseph R Jr",
+                "Bush, George W",
+                "Mattis, James N",
+                "McCain, Cindy",
+                "Powell, Colin L",
+                "Romney, Mitt",
+                "Rooney, Francis (1953- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Secretary of State Colin Powell said he would vote for Joe Biden, telling CNN that President Trump “lies about things.”",
+                    "copyright": "Drew Angerer/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/07/06/us/politics/06biden-repubs/06biden-repubs-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/07/06/us/politics/06biden-repubs/06biden-repubs-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/07/06/us/politics/06biden-repubs/06biden-repubs-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0b2a7873-2af6-5626-823a-5c9e57c848d3",
+            "url": "https://www.nytimes.com/2020/06/05/world/canada/bonnie-henry-british-columbia-coronavirus.html",
+            "id": 100000007176108,
+            "asset_id": 100000007176108,
+            "source": "New York Times",
+            "published_date": "2020-06-05",
+            "updated": "2020-06-12 04:38:02",
+            "section": "World",
+            "subsection": "Canada",
+            "nytdsection": "world",
+            "adx_keywords": "Coronavirus (2019-nCoV);Quarantines;Coronavirus Reopenings;Doctors;Medicine and Health;Epidemics;Henry, Bonnie (Doctor);British Columbia (Canada)",
+            "column": null,
+            "byline": "By Catherine Porter",
+            "type": "Article",
+            "title": "The Top Doctor Who Aced the Coronavirus Test",
+            "abstract": "Dr. Bonnie Henry kept the disease in check in British Columbia without harsh enforcement methods. Now, she is leading the way out of lockdown.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Quarantines",
+                "Coronavirus Reopenings",
+                "Doctors",
+                "Medicine and Health",
+                "Epidemics"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Henry, Bonnie (Doctor)"
+            ],
+            "geo_facet": [
+                "British Columbia (Canada)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "British Columbia’s provincial health officer, Dr. Bonnie Henry, has won praise for minimizing the impact of Covid-19 on the province. ",
+                    "copyright": "Jackie Dives for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/05/world/05profile-henry01top/05profile-henry01top-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/05/world/05profile-henry01top/merlin_173228355_be8bdc41-9805-41dd-ab54-61bba8b8e4d2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/05/world/05profile-henry01top/merlin_173228355_be8bdc41-9805-41dd-ab54-61bba8b8e4d2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/af8467c9-1eaa-528d-b323-2a92d4d77b98",
+            "url": "https://www.nytimes.com/2020/06/11/us/seattle-autonomous-zone.html",
+            "id": 100000007185539,
+            "asset_id": 100000007185539,
+            "source": "New York Times",
+            "published_date": "2020-06-11",
+            "updated": "2020-06-12 15:01:49",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "George Floyd Protests (2020);Durkan, Jenny A;Inslee, Jay;Trump, Donald J;Seattle (Wash)",
+            "column": null,
+            "byline": "By Mike Baker",
+            "type": "Article",
+            "title": "Free Food, Free Speech and Free of Police: Inside Seattle’s ‘Autonomous Zone’",
+            "abstract": "President Trump challenged Seattle’s mayor to “take back your city” after the police vacated a station house and protesters laid claim to the neighborhood around it.",
+            "des_facet": [
+                "George Floyd Protests (2020)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Durkan, Jenny A",
+                "Inslee, Jay",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Seattle (Wash)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A gathering on Wednesday in the Seattle neighborhood of Capitol Hill, where protesters have established an “autonomous zone.”",
+                    "copyright": "Ruth Fremson/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/14/world/11unrest-seattle-1sub/1unrest-seattle-1sub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/14/world/11unrest-seattle-1sub/1unrest-seattle-1sub-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/14/world/11unrest-seattle-1sub/1unrest-seattle-1sub-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/7bac14cc-0c2d-5de8-af84-a952c89a8ba6",
+            "url": "https://www.nytimes.com/2020/06/08/dining/bon-appetit-adam-rapoport.html",
+            "id": 100000007180221,
+            "asset_id": 100000007180221,
+            "source": "New York Times",
+            "published_date": "2020-06-08",
+            "updated": "2020-06-14 08:44:22",
+            "section": "Food",
+            "subsection": "",
+            "nytdsection": "food",
+            "adx_keywords": "Food;Race and Ethnicity;Social Media;Appointments and Executive Changes;Magazines;Discrimination;Puerto Ricans;Black Lives Matter Movement;Rapoport, Adam;Bon Appetit (Magazine);Conde Nast Publications Inc",
+            "column": null,
+            "byline": "By Kim Severson",
+            "type": "Article",
+            "title": "Bon Appétit Editor Adam Rapoport Resigns",
+            "abstract": "The move comes hours after a photo of him resurfaced on social media, drawing condemnations from the staff for a stereotypical depiction of Puerto Ricans.",
+            "des_facet": [
+                "Food",
+                "Race and Ethnicity",
+                "Social Media",
+                "Appointments and Executive Changes",
+                "Magazines",
+                "Discrimination",
+                "Puerto Ricans",
+                "Black Lives Matter Movement"
+            ],
+            "org_facet": [
+                "Bon Appetit (Magazine)",
+                "Conde Nast Publications Inc"
+            ],
+            "per_facet": [
+                "Rapoport, Adam"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Adam Rapoport took over as editor in chief of Bon Appétit in 2010, after years as the style editor at GQ.",
+                    "copyright": "Ike Edeani for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/08/dining/08BonAppe/merlin_100936021_812aeac2-dcec-43d4-905f-cd65efaef9cd-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/08/dining/08BonAppe/merlin_100936021_812aeac2-dcec-43d4-905f-cd65efaef9cd-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/08/dining/08BonAppe/merlin_100936021_812aeac2-dcec-43d4-905f-cd65efaef9cd-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/e65c276d-5e93-5381-9dc2-8a40c6e32b37",
+            "url": "https://www.nytimes.com/2020/06/11/us/george-floyd-protests.html",
+            "id": 100000007185049,
+            "asset_id": 100000007185049,
+            "source": "New York Times",
+            "published_date": "2020-06-11",
+            "updated": "2020-06-12 16:27:10",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "George Floyd Protests (2020)",
+            "column": null,
+            "byline": "",
+            "type": "Article",
+            "title": "Seattle Mayor Defies Trump",
+            "abstract": "The mayor defended Seattle’s decision to cede an “autonomous zone” to protesters. A Chicago congressman says security video shows police officers relaxing in his offices while nearby stores were vandalized.",
+            "des_facet": [
+                "George Floyd Protests (2020)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Seattle Police Department’s East Precinct building, which has been boarded up and abandoned, on Thursday.",
+                    "copyright": "Ted S. Warren/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/11/us/11unrest-briefing-seattle2/11unrest-briefing-seattle2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/11/us/11unrest-briefing-seattle2/merlin_173451774_3dff0d58-bc1a-4d3e-ac1e-972ca113be6e-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/11/us/11unrest-briefing-seattle2/merlin_173451774_3dff0d58-bc1a-4d3e-ac1e-972ca113be6e-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0b09d5dc-5d5c-5cb3-9685-148c408391c4",
+            "url": "https://www.nytimes.com/2020/06/11/health/coronavirus-lung-transplant.html",
+            "id": 100000007184681,
+            "asset_id": 100000007184681,
+            "source": "New York Times",
+            "published_date": "2020-06-11",
+            "updated": "2020-06-12 00:53:07",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Transplants;Lungs;Coronavirus (2019-nCoV);Surgery and Surgeons;Tissue (Human);your-feed-healthcare;Northwestern Memorial Hospital (Chicago, Ill)",
+            "column": null,
+            "byline": "By Denise Grady",
+            "type": "Article",
+            "title": "Covid-19 Patient Gets Double Lung Transplant, Offering Hope for Others",
+            "abstract": "The operation is believed to be the first of its kind in the U.S. The patient, a woman in her 20s, had been healthy, but the coronavirus devastated her lungs.",
+            "des_facet": [
+                "Transplants",
+                "Lungs",
+                "Coronavirus (2019-nCoV)",
+                "Surgery and Surgeons",
+                "Tissue (Human)",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Northwestern Memorial Hospital (Chicago, Ill)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An extracorporeal membrane oxygenation, or ECMO, room, where coronavirus patients struggling to breathe are treated, at a Northwestern Medicine facility in Chicago.",
+                    "copyright": "Northwestern Medicine",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/11/science/11VIRUS-TRANSPLANT1/11LUNG-TRANSPLANT1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/11/science/11VIRUS-TRANSPLANT1/11LUNG-TRANSPLANT1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/11/science/11VIRUS-TRANSPLANT1/11LUNG-TRANSPLANT1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/bd3eea14-ff76-5324-ba5e-5219886de1fa",
+            "url": "https://www.nytimes.com/2020/06/12/business/media/tucker-carlson-fox-news-advertisers.html",
+            "id": 100000007187203,
+            "asset_id": 100000007187203,
+            "source": "New York Times",
+            "published_date": "2020-06-12",
+            "updated": "2020-06-14 11:24:16",
+            "section": "Business",
+            "subsection": "Media",
+            "nytdsection": "business",
+            "adx_keywords": "Advertising and Marketing;News and News Media;Television;George Floyd Protests (2020);Black Lives Matter Movement;Carlson, Tucker;Fox News Channel;Papa Johns International Inc;T-Mobile US Inc;Walt Disney Company",
+            "column": null,
+            "byline": "By Tiffany Hsu",
+            "type": "Article",
+            "title": "Fox News Host Tucker Carlson Loses More Advertisers",
+            "abstract": "Disney, Papa John’s, Poshmark and T-Mobile backed away from “Tucker Carlson Tonight” after the host’s comments about Black Lives Matter protests.",
+            "des_facet": [
+                "Advertising and Marketing",
+                "News and News Media",
+                "Television",
+                "George Floyd Protests (2020)",
+                "Black Lives Matter Movement"
+            ],
+            "org_facet": [
+                "Fox News Channel",
+                "Papa Johns International Inc",
+                "T-Mobile US Inc",
+                "Walt Disney Company"
+            ],
+            "per_facet": [
+                "Carlson, Tucker"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Advertiser disavowals of Tucker Carlson&rsquo;s show, &ldquo;Tucker Carlson Tonight,&rdquo; have gained momentum.",
+                    "copyright": "Richard Drew/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/13/business/12unrest-carlson-print/12unrest-carlson-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/13/business/12unrest-carlson-print/12unrest-carlson-1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/13/business/12unrest-carlson-print/12unrest-carlson-1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f8c8ec0b-0e35-5951-88fd-198ced01e30f",
+            "url": "https://www.nytimes.com/2020/06/07/us/protests-today-george-floyd-video.html",
+            "id": 100000007178436,
+            "asset_id": 100000007178436,
+            "source": "New York Times",
+            "published_date": "2020-06-07",
+            "updated": "2020-06-09 13:50:15",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "George Floyd Protests (2020)",
+            "column": null,
+            "byline": "",
+            "type": "Article",
+            "title": "Majority of Minneapolis City Council Pledges to Dismantle Police Department",
+            "abstract": "Some cities are starting to to heed calls to “defund the police,” as lawmakers push proposals for greater police accountability. National Guard troops are being sent home from Washington, D.C.",
+            "des_facet": [
+                "George Floyd Protests (2020)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/87e3374f-503f-58d5-bf0a-6073b75de27b",
+            "url": "https://www.nytimes.com/2020/06/09/nyregion/james-demarco-franklinville-george-floyd-protest.html",
+            "id": 100000007183291,
+            "asset_id": 100000007183291,
+            "source": "New York Times",
+            "published_date": "2020-06-09",
+            "updated": "2020-06-10 20:51:45",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "George Floyd Protests (2020);Demonstrations, Protests and Riots;Prison Guards and Corrections Officers;Whites;Discrimination;Floyd, George (d 2020);Franklin Township (Gloucester County, NJ)",
+            "column": null,
+            "byline": "By Ed Shanahan and Tracey Tully",
+            "type": "Article",
+            "title": "Man Who Mocked George Floyd’s Killing Is Fired by FedEx",
+            "abstract": "One white counterprotester yelled while kneeling on the neck of another who was facedown on the ground. The display drew fierce condemnation.",
+            "des_facet": [
+                "George Floyd Protests (2020)",
+                "Demonstrations, Protests and Riots",
+                "Prison Guards and Corrections Officers",
+                "Whites",
+                "Discrimination"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Floyd, George (d 2020)"
+            ],
+            "geo_facet": [
+                "Franklin Township (Gloucester County, NJ)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People gathered for a Black Lives Matter protest in Franklin Township, N.J., on Monday.",
+                    "copyright": "Daryan Fennal",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/09/nyregion/09NYUNREST-FLOYDMOCKED1/09NYUNREST-FLOYDMOCKED1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/09/nyregion/09NYUNREST-FLOYDMOCKED1/09NYUNREST-FLOYDMOCKED1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/09/nyregion/09NYUNREST-FLOYDMOCKED1/09NYUNREST-FLOYDMOCKED1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cb6ab96b-60ee-5528-9958-f8a7de4ac2c5",
+            "url": "https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html",
+            "id": 100000007174992,
+            "asset_id": 100000007174992,
+            "source": "New York Times",
+            "published_date": "2020-06-04",
+            "updated": "2020-06-05 14:03:25",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Coronavirus (2019-nCoV);Hydroxychloroquine (Drug);Chloroquine (Drug);Hospitals;Academic and Scientific Journals;Electronic Health Records;Drugs (Pharmaceuticals);Rumors and Misinformation;Data-Mining and Database Marketing;Research;your-feed-science;Mehra, Mandeep;Desai, Sapan;Lancet, The (Journal);New England Journal of Medicine",
+            "column": null,
+            "byline": "By Roni Caryn Rabin and Ellen Gabler",
+            "type": "Article",
+            "title": "Two Huge Covid-19 Studies Are Retracted After Scientists Sound Alarms",
+            "abstract": "The reports, published in two leading journals, were retracted after authors could not verify an enormous database of medical records.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Hydroxychloroquine (Drug)",
+                "Chloroquine (Drug)",
+                "Hospitals",
+                "Academic and Scientific Journals",
+                "Electronic Health Records",
+                "Drugs (Pharmaceuticals)",
+                "Rumors and Misinformation",
+                "Data-Mining and Database Marketing",
+                "Research",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Lancet, The (Journal)",
+                "New England Journal of Medicine"
+            ],
+            "per_facet": [
+                "Mehra, Mandeep",
+                "Desai, Sapan"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Two prominent studies on the drugs chloroquine and hydroxychloroquine that used the same dataset from a company called Surgisphere were retracted on Thursday.",
+                    "copyright": "John Locher/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/04/science/04VIRUS-DRUG/04VIRUS-DRUG-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/04/science/04VIRUS-DRUG/04VIRUS-DRUG-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/04/science/04VIRUS-DRUG/04VIRUS-DRUG-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9a3f9d50-23e8-5d1e-af4f-688ecc35fab9",
+            "url": "https://www.nytimes.com/2020/06/08/business/hospitals-bailouts-ceo-pay.html",
+            "id": 100000007174201,
+            "asset_id": 100000007174201,
+            "source": "New York Times",
+            "published_date": "2020-06-08",
+            "updated": "2020-06-08 19:24:41",
+            "section": "Business",
+            "subsection": "",
+            "nytdsection": "business",
+            "adx_keywords": "Hospitals;Layoffs and Job Reductions;Executive Compensation;Coronavirus Aid, Relief, and Economic Security Act (2020);Coronavirus (2019-nCoV);Rittenmeyer, Ronald A;Hazen, Samuel N;Entwistle, David;HCA Holdings Inc;Mayo Clinic;Providence Health & Services;Tenet Healthcare Corporation;Stanford University;National Nurses United",
+            "column": null,
+            "byline": "By Jessica Silver-Greenberg, Jesse Drucker and David Enrich",
+            "type": "Article",
+            "title": "Hospitals Got Bailouts and Furloughed Thousands While Paying C.E.O.s Millions",
+            "abstract": "Dozens of top recipients of government aid have laid off, furloughed or cut the pay of tens of thousands of employees.",
+            "des_facet": [
+                "Hospitals",
+                "Layoffs and Job Reductions",
+                "Executive Compensation",
+                "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "HCA Holdings Inc",
+                "Mayo Clinic",
+                "Providence Health & Services",
+                "Tenet Healthcare Corporation",
+                "Stanford University",
+                "National Nurses United"
+            ],
+            "per_facet": [
+                "Rittenmeyer, Ronald A",
+                "Hazen, Samuel N",
+                "Entwistle, David"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "HCA Healthcare, based in Nashville, received about $1 billion in federal bailout funds, part of an effort to stabilize hospitals during the pandemic.",
+                    "copyright": "William DeShazer for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/07/business/07virus-hospitalbailouts-01/07virus-hospitalbailouts-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/07/business/07virus-hospitalbailouts-01/merlin_173208123_8d8443f5-6b8b-4a49-86cc-3ffa9d7b9f8f-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/07/business/07virus-hospitalbailouts-01/merlin_173208123_8d8443f5-6b8b-4a49-86cc-3ffa9d7b9f8f-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0582a540-250c-5cfa-abd7-655454d01717",
+            "url": "https://www.nytimes.com/2020/06/12/arts/music/bob-dylan-rough-and-rowdy-ways.html",
+            "id": 100000007177221,
+            "asset_id": 100000007177221,
+            "source": "New York Times",
+            "published_date": "2020-06-12",
+            "updated": "2020-06-12 17:58:08",
+            "section": "Arts",
+            "subsection": "Music",
+            "nytdsection": "arts",
+            "adx_keywords": "Pop and Rock Music;Dylan, Bob",
+            "column": null,
+            "byline": "By Douglas Brinkley",
+            "type": "Article",
+            "title": "Bob Dylan Has a Lot on His Mind",
+            "abstract": "In a rare interview, the Nobel Prize winner discusses mortality, drawing inspiration from the past, and his new album, “Rough and Rowdy Ways.”",
+            "des_facet": [
+                "Pop and Rock Music"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Dylan, Bob"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bob Dylan&rsquo;s &ldquo;Rough and Rowdy Ways&rdquo; is his first album of original songs since 2012.",
+                    "copyright": "Kevin Winter/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/14/arts/14dylan1/merlin_146478750_0a7f707b-ed5c-4046-a922-d33d68db402d-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/14/arts/14dylan1/merlin_146478750_0a7f707b-ed5c-4046-a922-d33d68db402d-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/14/arts/14dylan1/merlin_146478750_0a7f707b-ed5c-4046-a922-d33d68db402d-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/16766a87-79b1-50d5-9df6-0bee54915bd3",
+            "url": "https://www.nytimes.com/2018/12/20/us/lynching-federal-hate-crime.html",
+            "id": 100000006272858,
+            "asset_id": 100000006272858,
+            "source": "New York Times",
+            "published_date": "2018-12-20",
+            "updated": "2020-06-08 09:32:34",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Law and Legislation;United States Politics and Government;Lynching;Hate Crimes;Race and Ethnicity;Senate;United States",
+            "column": null,
+            "byline": "By Mihir Zaveri",
+            "type": "Article",
+            "title": "From 2018: Senate Unanimously Passes Bill Making Lynching a Federal Crime",
+            "abstract": "Nearly 200 similar bills have been introduced in Congress from 1882 to 1996, but none have successfully passed both chambers.",
+            "des_facet": [
+                "Law and Legislation",
+                "United States Politics and Government",
+                "Lynching",
+                "Hate Crimes",
+                "Race and Ethnicity"
+            ],
+            "org_facet": [
+                "Senate"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ff168c45-5d20-5c2e-88bd-1d482069df1c",
+            "url": "https://www.nytimes.com/2020/06/07/us/minneapolis-mayor-jacob-frey-walk-of-shame.html",
+            "id": 100000007178459,
+            "asset_id": 100000007178459,
+            "source": "New York Times",
+            "published_date": "2020-06-07",
+            "updated": "2020-06-08 12:14:00",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "George Floyd Protests (2020);Politics and Government;Demonstrations, Protests and Riots;Police Brutality, Misconduct and Shootings;Black Lives Matter Movement;Frey, Jacob (1981- );Floyd, George (d 2020);Minneapolis (Minn)",
+            "column": null,
+            "byline": "By Michael Levenson",
+            "type": "Article",
+            "title": "For Mayor Jacob Frey of Minneapolis, a Stinging Rebuke",
+            "abstract": "A sea of protesters yelled, “Go home, Jacob, go home!” and “Shame! Shame!” when he would not, on the spot, commit to abolishing the Police Department.",
+            "des_facet": [
+                "George Floyd Protests (2020)",
+                "Politics and Government",
+                "Demonstrations, Protests and Riots",
+                "Police Brutality, Misconduct and Shootings",
+                "Black Lives Matter Movement"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Frey, Jacob (1981- )",
+                "Floyd, George (d 2020)"
+            ],
+            "geo_facet": [
+                "Minneapolis (Minn)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "@CTUL_TC/twitter",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/06/us/politics/minn/minn-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/06/us/politics/minn/minn-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/06/us/politics/minn/minn-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/cf3d51df-5f8b-5ae5-b439-5371f10d56b1",
+            "url": "https://www.nytimes.com/2020/06/09/well/live/coronavirus-rules-pandemic-infection-prevention.html",
+            "id": 100000007152805,
+            "asset_id": 100000007152805,
+            "source": "New York Times",
+            "published_date": "2020-06-09",
+            "updated": "2020-06-14 07:12:54",
+            "section": "Well",
+            "subsection": "Live",
+            "nytdsection": "well",
+            "adx_keywords": "Coronavirus (2019-nCoV);Quarantines;Contact Tracing (Public Health);Tests (Medical);Coronavirus Reopenings;Masks;Hygiene and Cleanliness;Supermarkets and Grocery Stores;Coronavirus Risks and Safety Concerns;Content Type: Service;Disease Rates",
+            "column": null,
+            "byline": "By Tara Parker-Pope",
+            "type": "Article",
+            "title": "5 Rules to Live By During a Pandemic",
+            "abstract": "There’s no playbook for living through a pandemic, so we decided to create one. With some basic rules to guide you, everyone can lower risk and live a full life while we wait for the virus to get under control.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Quarantines",
+                "Contact Tracing (Public Health)",
+                "Tests (Medical)",
+                "Coronavirus Reopenings",
+                "Masks",
+                "Hygiene and Cleanliness",
+                "Supermarkets and Grocery Stores",
+                "Coronavirus Risks and Safety Concerns",
+                "Content Type: Service",
+                "Disease Rates"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Abby Fisher, a hostess, prepares a table at Lindey’s restaurant in Columbus, Ohio on June 5.",
+                    "copyright": "Maddie McGarvey for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/08/well/well-restaurant/well-restaurant-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/08/well/well-restaurant/well-restaurant-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/08/well/well-restaurant/well-restaurant-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1ce66612-0984-5acf-b1fd-8b24b3121650",
+            "url": "https://www.nytimes.com/2020/06/12/opinion/sunday/floyd-abolish-defund-police.html",
+            "id": 100000007178486,
+            "asset_id": 100000007178486,
+            "source": "New York Times",
+            "published_date": "2020-06-12",
+            "updated": "2020-06-14 13:09:59",
+            "section": "Opinion",
+            "subsection": "Sunday Review",
+            "nytdsection": "opinion",
+            "adx_keywords": "George Floyd Protests (2020);Black Lives Matter Movement;Police Brutality, Misconduct and Shootings;Police Reform;United States",
+            "column": null,
+            "byline": "By Mariame Kaba",
+            "type": "Article",
+            "title": "Yes, We Mean Literally Abolish the Police",
+            "abstract": "Because reform won’t happen.",
+            "des_facet": [
+                "George Floyd Protests (2020)",
+                "Black Lives Matter Movement",
+                "Police Brutality, Misconduct and Shootings",
+                "Police Reform"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Nicholas Konrad; photograph by Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/15/opinion/14kaba_sub2/14kaba_sub2-thumbStandard-v6.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/15/opinion/14kaba_sub2/14kaba_sub2-mediumThreeByTwo210-v6.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2020/06/15/opinion/14kaba_sub2/14kaba_sub2-mediumThreeByTwo440-v6.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ded6b3ba-9183-571d-81d0-a2deccc19ec9",
+            "url": "https://www.nytimes.com/2020/05/31/us/george-floyd-investigation.html",
+            "id": 100000007166215,
+            "asset_id": 100000007166215,
+            "source": "New York Times",
+            "published_date": "2020-05-31",
+            "updated": "2020-06-10 09:48:37",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Police Brutality, Misconduct and Shootings;Murders, Attempted Murders and Homicides;Black People;Black Lives Matter Movement;George Floyd Protests (2020);Chauvin, Derek (1976- );Floyd, George (d 2020);Police Department (Minneapolis, Minn);Minneapolis (Minn)",
+            "column": null,
+            "byline": "By Evan Hill, Ainara Tiefenthäler, Christiaan Triebert, Drew Jordan, Haley Willis and Robin Stein",
+            "type": "Article",
+            "title": "8 Minutes and 46 Seconds: How George Floyd Was Killed in Police Custody",
+            "abstract": "The Times has reconstructed the death of George Floyd on May 25. Security footage, witness videos and official documents show how a series of actions by officers turned fatal.",
+            "des_facet": [
+                "Police Brutality, Misconduct and Shootings",
+                "Murders, Attempted Murders and Homicides",
+                "Black People",
+                "Black Lives Matter Movement",
+                "George Floyd Protests (2020)"
+            ],
+            "org_facet": [
+                "Police Department (Minneapolis, Minn)"
+            ],
+            "per_facet": [
+                "Chauvin, Derek (1976- )",
+                "Floyd, George (d 2020)"
+            ],
+            "geo_facet": [
+                "Minneapolis (Minn)"
+            ],
+            "media": [],
+            "eta_id": 0
+        }
+    ]
+}
